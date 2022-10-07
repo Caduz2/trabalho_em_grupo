@@ -1,0 +1,315 @@
+html{ font-family: Quicksand; 
+    background-image: url(/imagens/fundo.png);
+    background-repeat: no repeat;
+    background-size: cover;
+    background-color: whitesmoke;
+    font-size: 25px;
+}
+
+.pai{ display: flex;
+    
+    justify-content:space-around;
+    border-top: 5px solid silver;
+}
+
+        
+  .box{
+    border-width: 5px;
+    background-color: lightpink;
+    font-size: 10px;
+    text-align: center;
+
+
+  }
+    
+    nav{
+        display: flex;
+        justify-content:space-evenly;
+        align-items: center;
+    }
+    .logo{
+        width: 130px;
+    height: 130px;
+    display: block;
+    margin:0 auto;
+    }
+    
+    
+img{
+    width: 100px;
+    height: 100px;
+
+}
+
+
+p{ 
+    font-size: 20px;
+    text-align: center;
+    margin: 90px;
+}
+nav{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.container{
+    height: 70px;
+    width: 70px;
+}
+.arte{
+    width: 1500px;
+    height: 300px;
+    border-radius: 30px;
+    margin-left: 10px;
+}
+.m{
+    max-width: 1500px;
+    max-height: 200px;
+    height: auto;
+    width: auto;
+}
+.aneis{
+    display: flex;
+    margin-top: 120px;
+    justify-content: space-evenly;
+    align-items: baseline;
+
+}
+.anelum{
+    height: 190px;
+    width: 190px;
+    border: 2px solid silver ;
+}
+.aneldois{
+    height: 190px;
+    width: 190px;
+    border: 2px solid silver;
+}
+.aneltres{
+    height: 190px;
+    width: 190px;
+    border: 2px solid silver;
+}
+.anelquatro{
+    height: 190px;
+    width: 190px;
+    border: 2px solid silver;
+}
+.aum{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    align-items: center;
+    border-bottom-left-radius: 1px solid silver;
+    
+}
+.adois{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    align-items: center;
+    border-bottom-left-radius: 1px solid silver;
+    
+}.atres{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    align-items: center;
+    border-bottom-left-radius: 1px solid silver;
+    
+}
+.aquatro{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    align-items: center;
+    border-bottom-left-radius: 1px solid silver;
+    
+}
+
+.colares{
+    position: absolute;
+    top: 800px;
+    left: 110px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 60px;
+    align-items: center;
+    
+
+
+}
+.coum{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    align-items: center;
+    border-bottom-left-radius: 1px solid silver;
+    margin-bottom: 15px;
+}
+.codois{
+        display: flex;
+        flex-direction: column;
+        font-size: 15px;
+        align-items: center;
+        border-bottom-left-radius: 1px solid silver;
+        margin-left: 125px;
+}
+.cotres{
+            display: flex;
+            flex-direction: column;
+            font-size: 15px;
+            align-items: center;
+            border-bottom-left-radius: 1px solid silver;
+            margin-left: 125px;
+            margin-bottom: 15px;
+}
+.coquatro{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    align-items: center;
+    border-bottom-left-radius: 1px solid silver;
+    margin-left: 125px;
+}
+.colarum{
+    height: 190px;
+    width: 190px;
+}
+.colardois{
+    height: 190px;
+    width: 190px
+}
+.colartres{
+    height: 190px;
+    width: 190px;
+}
+.colarquatro{
+    height: 190px;
+    width: 190px;
+    
+}
+.brincos{
+    position: absolute;
+    top: 1200px;
+    left: 80px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 60px;
+    align-items: center;
+    
+
+
+}
+.bum{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    align-items: center;
+    border-bottom-left-radius: 1px solid silver;
+    margin-bottom: 15px;
+}
+.bdois{
+        display: flex;
+        flex-direction: column;
+        font-size: 15px;
+        align-items: center;
+        border-bottom-left-radius: 1px solid silver;
+        margin-left: 125px;
+}
+.btres{
+            display: flex;
+            flex-direction: column;
+            font-size: 15px;
+            align-items: center;
+            border-bottom-left-radius: 1px solid silver;
+            margin-left: 125px;
+            margin-bottom: 15px;
+}
+.bquatro{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    align-items: center;
+    border-bottom-left-radius: 1px solid silver;
+    margin-left: 125px;
+}
+.brincoum{
+    height: 190px;
+    width: 190px;
+}
+.brincodois{
+    height: 190px;
+    width: 190px
+}
+.brincotres{
+    height: 190px;
+    width: 190px;
+}
+.brincoquatro{
+    height: 190px;
+    width: 190px;
+    
+}
+.pulseiras{
+    position: absolute;
+    top: 1600px;
+    left: 130px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 60px;
+    align-items: center;
+    
+
+
+}
+.pum{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    align-items: center;
+    border-bottom-left-radius: 1px solid silver;
+    margin-bottom: 15px;
+}
+.pdois{
+        display: flex;
+        flex-direction: column;
+        font-size: 15px;
+        align-items: center;
+        border-bottom-left-radius: 1px solid silver;
+        margin-left: 125px;
+}
+.ptres{
+            display: flex;
+            flex-direction: column;
+            font-size: 15px;
+            align-items: center;
+            border-bottom-left-radius: 1px solid silver;
+            margin-left: 125px;
+            margin-bottom: 15px;
+}
+.pquatro{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    align-items: center;
+    border-bottom-left-radius: 1px solid silver;
+    margin-left: 125px;
+}
+.pulseiraum{
+    height: 190px;
+    width: 190px;
+}
+.pulseiradois{
+    height: 190px;
+    width: 190px
+}
+.pulseiratres{
+    height: 190px;
+    width: 190px;
+}
+.pulseiraquatro{
+    height: 190px;
+    width: 190px;
+    
+}
